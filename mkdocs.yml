@@ -1,6 +1,6 @@
-site_name: your_site_name # Change this to your site name
-site_description: A cool description of your site
-site_url: https://change_me.io/ # Change this to your site URL
+site_name: Greenbriar Sketch Bible # Change this to your site name
+site_description: The Policies, Procedures, and Practices of Greenbriar Sketch Community
+site_url: https://remyporter.github.io/greenbriar-sketch # Change this to your site URL
 
 theme:
     name: 'material'
