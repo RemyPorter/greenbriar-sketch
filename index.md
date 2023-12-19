@@ -7,6 +7,6 @@ The goal: be Pittsburgh’s premiere sketch troupe, with a large community of cr
 
 The mission: to create a fun space for audiences and creators that recharges everyone involved. 
 
-[[Organization|Organization]]
+[[./Organization|Organization]]
 
-[[Philosophy|Philosophy]]
+[[./Philosophy|Philosophy]]
